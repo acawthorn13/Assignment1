@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/pre-dexed/debug/classes-68611788d8d135ae90c269875d0c2debf8656a9b.jar" />
+    </item>
+    <item
+        jar="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="82825756edeeb3b56b15e73b2edd56e93da5a444">
+        <dex dex="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/pre-dexed/debug/classes-8228f9a21030a96ae56dc9a88b86501efe04bc4e.jar" />
+    </item>
+    <item
+        jar="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/exploded-aar/com.google.android.support/wearable/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="58b928ccbaf9090c632f278d6bd31e1ae42f2457">
+        <dex dex="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/pre-dexed/debug/classes-1a62e28b8ba82349b36cc4735d3fd0b46dbc07a0.jar" />
+    </item>
+    <item
+        jar="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-aea3783d749aa10a9add10788a993f58701b2286.jar" />
+    </item>
+    <item
+        jar="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/pre-dexed/debug/classes-906ccf23ff65be9f7d8014c8b25f740326b57686.jar" />
+    </item>
+    <item
+        jar="/Users/Aaron/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-f331921a90e23b99f50e00f63a2bd831d9637563.jar" />
+    </item>
+    <item
+        jar="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/pre-dexed/debug/classes-fb75da63c230ae9a80c5e93846d5480549716d1d.jar" />
+    </item>
+    <item
+        jar="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/8.1.0/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="97f3b099801a9ad9d70e835b9125273e986eb68d">
+        <dex dex="/Users/Aaron/Downloads/AndroidWearable/app/build/intermediates/pre-dexed/debug/classes-2962b1c69974aa76870aa0a9f231c369eaef61e2.jar" />
+    </item>
+
+</items>
